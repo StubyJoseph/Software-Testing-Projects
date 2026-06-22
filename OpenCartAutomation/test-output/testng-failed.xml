@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OpenCartSuite]">
+  <test thread-count="5" name="OpenCartTest(failed)">
+    <classes>
+      <class name="com.OpenCartAutomation.Checkout">
+        <methods>
+          <include name="openApplication"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="checkoutProcessTest"/>
+        </methods>
+      </class> <!-- com.OpenCartAutomation.Checkout -->
+      <class name="com.OpenCartAutomation.AddToCart">
+        <methods>
+          <include name="openApplication"/>
+          <include name="setup"/>
+          <include name="addToCart"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.OpenCartAutomation.AddToCart -->
+      <class name="com.OpenCartAutomation.SearchProduct">
+        <methods>
+          <include name="openApplication"/>
+          <include name="setup"/>
+          <include name="searchProduct"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.OpenCartAutomation.SearchProduct -->
+      <class name="com.OpenCartAutomation.CompareProducts">
+        <methods>
+          <include name="openApplication"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="compareProducts"/>
+        </methods>
+      </class> <!-- com.OpenCartAutomation.CompareProducts -->
+    </classes>
+  </test> <!-- OpenCartTest(failed) -->
+</suite> <!-- Failed suite [OpenCartSuite] -->

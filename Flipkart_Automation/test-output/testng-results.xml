@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-29T21:03:29 IST" name="FlipkartSuite" finished-at="2026-05-29T21:04:29 IST" duration-ms="59753">
+    <groups>
+    </groups>
+    <test started-at="2026-05-29T21:03:29 IST" name="FlipkartTest" finished-at="2026-05-29T21:04:29 IST" duration-ms="59753">
+      <class name="tests.FlipkartAutomationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:03:29 IST" name="setup" finished-at="2026-05-29T21:03:43 IST" duration-ms="13688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:1, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:03:43 IST" name="verifyTitle" finished-at="2026-05-29T21:03:43 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="searchProduct()[pri:2, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:03:43 IST" name="searchProduct" finished-at="2026-05-29T21:04:12 IST" duration-ms="29208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="printProducts()[pri:3, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:04:12 IST" name="printProducts" finished-at="2026-05-29T21:04:12 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printProducts -->
+        <test-method signature="mouseHoverElectronics()[pri:4, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:04:12 IST" name="mouseHoverElectronics" finished-at="2026-05-29T21:04:18 IST" duration-ms="5367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHoverElectronics -->
+        <test-method signature="clickFirstProduct()[pri:5, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:04:18 IST" name="clickFirstProduct" finished-at="2026-05-29T21:04:28 IST" duration-ms="10497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFirstProduct -->
+        <test-method signature="verifyProductDetails()[pri:6, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:04:28 IST" name="verifyProductDetails" finished-at="2026-05-29T21:04:28 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetails -->
+        <test-method signature="takeScreenshot()[pri:7, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:04:28 IST" name="takeScreenshot" finished-at="2026-05-29T21:04:29 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlipkartAutomationTest@4afcd809]" started-at="2026-05-29T21:04:29 IST" name="tearDown" finished-at="2026-05-29T21:04:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FlipkartAutomationTest -->
+    </test> <!-- FlipkartTest -->
+  </suite> <!-- FlipkartSuite -->
+</testng-results>

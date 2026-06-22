@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="FlipkartSuite">
+
+    <test name="FlipkartTest">
+
+        <classes>
+
+            <class name="tests.FlipkartAutomationTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>

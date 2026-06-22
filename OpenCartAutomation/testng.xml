@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OpenCartSuite">
+
+    <test name="OpenCartTest">
+
+        <classes>
+
+            <class name="com.OpenCartAutomation.SearchProduct"/>
+
+            <class name="com.OpenCartAutomation.AddToCart"/>
+
+            <class name="com.OpenCartAutomation.CompareProducts"/>
+
+            <class name="com.OpenCartAutomation.Checkout"/>
+
+        </classes>
+
+    </test>
+
+</suite>
