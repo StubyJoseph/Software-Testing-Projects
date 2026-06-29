@@ -26,3 +26,9 @@ Developed an automation testing project for the E-Commerce web application using
 Project Overview
 
 Developed an automation testing project for the Banking web application using Selenium WebDriver with Java and Maven. The project automated core banking functionalities, including user registration, login, account overview, fund transfer, bill payment, and logout. Test scenarios covered both positive and negative cases, such as registration with valid and invalid data, login validation, transferring funds between accounts, verifying balance updates, bill payment with valid details, and handling invalid inputs. This project demonstrates practical experience in automating end-to-end banking workflows, validating business logic, and implementing reliable Selenium automation scripts.
+
+**5) Automation Testing using Maven,TestNG,Selenium Webdriver**
+
+Project Overview
+
+Developed an automation testing project for the OpenCart  e-commerce application using Selenium WebDriver with Java, Maven, and TestNG. The project automated core e-commerce functionalities, including product search, adding products to the cart, product comparison, and basic checkout validation. Test cases were executed using TestNG annotations, with assertions to verify search results, success messages, product comparison, and checkout navigation. This project demonstrates practical experience in building a Selenium automation framework, implementing TestNG for test execution, validating end-to-end e-commerce workflows, and creating maintainable automated test scripts.
