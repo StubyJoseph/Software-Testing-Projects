@@ -14,4 +14,10 @@ In the ESS module, verified user login with valid and invalid credentials and va
 Project Overview
 
 Performed performance testing on the Automation Exercise web application using Apache JMeter to evaluate its performance, scalability, and response time under different user loads. The project included validating key user functionalities such as launching the application, user login, product search, and adding products to the cart. Conducted Baseline Testing using a single virtual user to establish performance benchmarks, Load Testing with 15 concurrent users (3-second ramp-up, 2 cycles) to measure application performance under expected load, and Stress Testing with 200 concurrent users (3-second ramp-up, 2 cycles) to evaluate system stability under heavy traffic. Analyzed response time, throughput, and error rates using JMeter reports to assess overall application performance.
+
+**3) Mini Project-Automation Testing (E-Commerce Website)**
+
+Project Overview
+
+Developed an automation testing project for the E-Commerce web application using Selenium WebDriver with Java. The project automated an end-to-end e-commerce workflow, including launching the application, user login with valid credentials, product selection, adding a product to the cart, cart verification, checkout process, order completion, and browser closure. Validation was performed at each stage to ensure the application functioned correctly, such as verifying successful login, cart item count, selected product details, and the order confirmation message ("Thank you for your order"). This project demonstrates practical experience in Selenium WebDriver automation, web element interaction, validation techniques, and end-to-end functional testing.
    
