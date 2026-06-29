@@ -21,3 +21,8 @@ Project Overview
 
 Developed an automation testing project for the E-Commerce web application using Selenium WebDriver with Java. The project automated an end-to-end e-commerce workflow, including launching the application, user login with valid credentials, product selection, adding a product to the cart, cart verification, checkout process, order completion, and browser closure. Validation was performed at each stage to ensure the application functioned correctly, such as verifying successful login, cart item count, selected product details, and the order confirmation message ("Thank you for your order"). This project demonstrates practical experience in Selenium WebDriver automation, web element interaction, validation techniques, and end-to-end functional testing.
    
+**4) Automation Testing - Banking Application**
+
+Project Overview
+
+Developed an automation testing project for the Banking web application using Selenium WebDriver with Java and Maven. The project automated core banking functionalities, including user registration, login, account overview, fund transfer, bill payment, and logout. Test scenarios covered both positive and negative cases, such as registration with valid and invalid data, login validation, transferring funds between accounts, verifying balance updates, bill payment with valid details, and handling invalid inputs. This project demonstrates practical experience in automating end-to-end banking workflows, validating business logic, and implementing reliable Selenium automation scripts.
