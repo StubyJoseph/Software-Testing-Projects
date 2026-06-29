@@ -8,3 +8,10 @@ Performed manual testing on the HRM application based on functional requirements
 The project involved testing the Admin and ESS modules. In the Admin module, verified login functionality with valid and invalid credentials, validated the availability of menus such as Admin, PIM, Leave, Time, Recruitment, My Info, Performance, Dashboard, Directory, and Maintenance, tested the Add Employee functionality in the PIM module, and verified editing of employee personal details including Employee ID, Name, Nationality, Date of Birth, Marital Status, Gender, Driver's License Number, and License Expiry Date.
 
 In the ESS module, verified user login with valid and invalid credentials and validated the availability of menus including PIM, Leave, Time, My Info, Performance, Dashboard, and Directory. This project demonstrates practical experience in requirement analysis, functional testing, test case design, test execution, and defect reporting.
+
+**2) Performance Testing Project (JMeter)**
+
+Project Overview
+
+Performed performance testing on the Automation Exercise web application using Apache JMeter to evaluate its performance, scalability, and response time under different user loads. The project included validating key user functionalities such as launching the application, user login, product search, and adding products to the cart. Conducted Baseline Testing using a single virtual user to establish performance benchmarks, Load Testing with 15 concurrent users (3-second ramp-up, 2 cycles) to measure application performance under expected load, and Stress Testing with 200 concurrent users (3-second ramp-up, 2 cycles) to evaluate system stability under heavy traffic. Analyzed response time, throughput, and error rates using JMeter reports to assess overall application performance.
+   
